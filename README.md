@@ -1,6 +1,6 @@
 # Hi there, I'm Marc Lester Bagal 👋
 
-I'm a passionate Computer Science undergraduate at the University of Mindanao, graduating in 2027. I love building user-friendly applications and exploring innovative solutions with modern technolo[...]
+I'm a passionate Computer Science undergraduate at the University of Mindanao, graduating in 2027. I love building user-friendly applications and exploring innovative solutions with modern technology
 
 ---
 
