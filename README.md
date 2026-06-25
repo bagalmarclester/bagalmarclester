@@ -9,7 +9,7 @@ I'm a passionate Computer Science undergraduate at the University of Mindanao. I
 * **Languages:** HTML, CSS, JavaScript, and Python
 * **Frontend & Mobile:** React Native (Expo), Vanilla Framework, Bootstrap, Responsive UI, and Figma
 * **Backend:** Node.js, Laravel Blade, PHP, REST APIs, and Vite
-* **AI/ML:** Gemma 4 (Pretrained LLM), NLP, Machine Learning, and Jupyter Notebook
+* **AI/ML:** Pretrained LLM, NLP, Machine Learning, and Jupyter Notebook
 * **Tools:** Git, GitHub, VS Code, Expo CLI, Expo Go, and npm
 
 ---
